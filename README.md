@@ -1,2 +1,2 @@
 # RabbitMQ
-RabbitMQ, exchange ve yöntem incelemeleri
+RabbitMQ, exchange ve yöntem incelemeleri 
